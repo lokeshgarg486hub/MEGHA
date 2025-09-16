@@ -38,7 +38,7 @@ h2,
 h3,
 h4,
 h5 {
-  color: #232532;
+  color: #D4B055;
   font-family: "Jost", sans-serif;
   font-weight: 700;
 }
@@ -320,7 +320,7 @@ button {
   text-decoration: line-through;
 }
 .price .new-price {
-  color: #AE1C9A;
+  color: #D4B055;
 }
 .price span {
   font-size: 1.6rem;
@@ -332,12 +332,12 @@ button {
   padding: 1.2rem 1.6rem 1.2rem 2.5rem;
   border-top-left-radius: 3rem;
   background: rgba(174, 28, 154, 0.1882352941);
-  color: #AE1C9A;
+  color: #081229;
   font-size: 1.6rem;
   transition: all 0.4s;
 }
 .product-btn:hover {
-  background-color: #AE1C9A;
+  background-color: #081229;
   color: #FFFFFF;
 }
 
@@ -444,11 +444,11 @@ button {
 .modal-main .wrapper-main .divider {
   height: 3rem;
   width: 1px;
-  background: #e8e8e8;
+  background: #BCC1F8;
 }
 
 .header-top-section {
-  border-bottom: 1px solid #AE1C9A;
+  border-bottom: 1px solid #081229;
   background: rgba(174, 28, 154, 0.08);
 }
 
@@ -468,7 +468,7 @@ button {
   gap: 2rem;
 }
 .header-top .header-contact .contact-number {
-  color: #AE1C9A;
+  color: #081229;
   font-weight: 700;
 }
 
@@ -706,7 +706,7 @@ button {
   margin: 0;
 }
 .offcanvas-body .header-top .shop-btn .btn-close {
-  --bs-btn-close-bg:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="%23FFF" width="24px" height="24px"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>');
+  bs-btn-close-bg:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="%23FFF" width="24px" height="24px"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" /></svg>');
   font-size: 2rem;
 }
 .offcanvas-body .header-top .shop-btn i {
@@ -762,7 +762,7 @@ button {
 }
 
 .header-bottom {
-  background: #AE1C9A;
+  background: #081229;
   padding: 10px 0;
 }
 
@@ -1080,6 +1080,7 @@ button {
 
 .hero {
   height: 73.3rem;
+	display: flex
 }
 @media (max-width:767px) {
   .hero {
@@ -1101,7 +1102,7 @@ button {
   align-items: center;
   justify-content: center;
   gap: 0px;
-  padding: 10px;
+  padding: 0px;
 }
 
 .hero-slider-one {
@@ -1148,7 +1149,7 @@ button {
   text-align: center;
   border-radius: 3rem;
   display: inline-block;
-  background: #AE1C9A;
+  background: #081229;
   font-size: 1.6rem;
   font-weight: 500;
   position: relative;
@@ -1181,7 +1182,7 @@ button {
 }
 .wrapper-section .shop-btn:hover {
   color: #FFFFFF;
-  background-color: #AE1C9A;
+  background-color: #FFBB38;
 }
 .wrapper-section .shop-btn:hover::after {
   right: auto;
@@ -1241,11 +1242,11 @@ button {
   text-align: center;
   border-radius: 3rem;
   display: inline-block;
-  background: #FFBB38;
+  background: #081229;
   font-size: 1.4rem;
   font-weight: 500;
   position: relative;
-  color: #232532;
+  color: #FFFFFF;
   font-family: "Inter", sans-serif;
   transition: all 0.3s;
   overflow: hidden;
@@ -1302,7 +1303,7 @@ button {
   text-align: center;
   border-radius: 3rem;
   display: inline-block;
-  background: #AE1C9A;
+  background: #081229;
   font-size: 1.4rem;
   font-weight: 500;
   position: relative;
@@ -1335,7 +1336,7 @@ button {
 }
 .wrapper-two .shop-btn:hover {
   color: #FFFFFF;
-  background-color: #AE1C9A;
+  background-color: #FFBB38;
 }
 .wrapper-two .shop-btn:hover::after {
   right: auto;
@@ -1443,7 +1444,8 @@ button {
 }
 
 .arrival {
-  background: rgba(174, 28, 154, 0.08);
+  background-color:rgba(251,254, 183, 0.4);
+   opactiy : 0.1 ;
 }
 
 .flash-sale {
@@ -1711,7 +1713,7 @@ button {
 }
 
 .footer-service-section {
-  background-color: #AE1C9A;
+  background-color: #081229;
   padding: 2.8rem;
   margin-top: -11rem;
   border-radius: 4px;
