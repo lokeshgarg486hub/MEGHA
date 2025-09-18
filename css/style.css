@@ -72,7 +72,7 @@ h5 {
 a {
   font-size: 1.8rem;
   font-weight: 700;
-  color: #232532;
+  color: #D4B055;
   text-decoration: none;
   font-family: "Inter", sans-serif;
 }
@@ -83,6 +83,7 @@ a .list-text {
 a span {
   font-size: 14px;
   font-weight: 500;
+	
 }
 
 p {
@@ -320,7 +321,7 @@ button {
   text-decoration: line-through;
 }
 .price .new-price {
-  color: #D4B055;
+  color: #36748D;
 }
 .price span {
   font-size: 1.6rem;
@@ -1132,7 +1133,7 @@ button {
 }
 
 .swiper-pagination-bullet-active {
-  background-color: #AE1C9A;
+  background-color: #D4B055;
 }
 
 .wrapper-section .wrapper-subtitle {
@@ -1141,7 +1142,7 @@ button {
 }
 .wrapper-section .wrapper-subtitle .wrapper-inner-title {
   font-size: 4rem;
-  color: #AE1C9A;
+  color: #ff9505;
 }
 .wrapper-section .shop-btn {
   padding: 1.4rem 4.6rem;
@@ -1378,7 +1379,7 @@ button {
   align-items: center;
   justify-content: center;
   gap: 2rem;
-  background: rgba(174, 28, 154, 0.08);
+  background: rgba(8, 18, 41, 1);
   height: 18rem;
   border-radius: 1.2rem;
   border: 1px solid rgba(174, 28, 154, 0.08);
@@ -1389,7 +1390,7 @@ button {
   transition: all 0.2s ease-in-out;
 }
 .category-section .product-wrapper:hover {
-  border: 1px solid #AE1C9A;
+  border: 1px solid #081229;
 }
 .category-section .product-wrapper:hover .wrapper-img img {
   transform: scale(1.2);
@@ -1449,7 +1450,7 @@ button {
 }
 
 .flash-sale {
-  background: linear-gradient(90deg, #FBD7E9 0%, #FFD7AB 100%);
+  background: linear-gradient(1200deg, #CADBC8 10%, #4D4D4D 55%, #B0BBBF 100%);
 }
 
 .countdown-section {
@@ -1594,7 +1595,7 @@ button {
 }
 
 .best-selling-section {
-  background: linear-gradient(92deg, #FECAFF 1.23%, #C9DDFA 97.37%);
+  background: linear-gradient(92deg, #36748D 1.23%, #0F2027 97.37%);
   padding: 3rem;
   border-radius: 1.2rem;
 }
@@ -1650,7 +1651,7 @@ button {
 }
 
 .weekly-sale {
-  background-color: #F9EDF7;
+  background-color: #CCD1DF;
 }
 .weekly-sale .style-section {
   padding-top: 6rem;
@@ -1674,7 +1675,7 @@ button {
 
 .best-product {
   padding-top: 0;
-  background-color: #F9EDF7;
+  background-color: #CCD1DF;
   padding-bottom: 11.2rem;
 }
 .best-product .product-wrapper {
