@@ -125,7 +125,7 @@ input {
 }
 
 input[type=checkbox] {
-  accent-color: #AE1C9A;
+  accent-color: #081229;
 }
 
 button {
@@ -247,7 +247,7 @@ button {
 }
 .product-wrapper .product-img .product-cart-items .cart-item:hover svg rect {
   fill: currentColor;
-  fill: #AE1C9A;
+  fill: #081229;
 }
 .product-wrapper .product-img .product-cart-items .cart-item:hover svg path {
   fill: currentColor;
@@ -274,7 +274,7 @@ button {
   transition: all 0.4s;
 }
 .product-wrapper:hover {
-  border: 1px solid #AE1C9A;
+  border: 1px solid #081229;
 }
 .product-wrapper:hover .product-cart-items {
   bottom: 15%;
@@ -509,7 +509,7 @@ button {
   z-index: 2;
   left: -15rem;
   top: 5rem;
-  border-top: 3px solid #AE1C9A;
+  border-top: 3px solid #081229;
   border-radius: 0.5rem;
   opacity: 0;
   visibility: hidden;
@@ -651,7 +651,7 @@ button {
   flex: 1 1 0%;
 }
 .header-center .header-cart-items .header-search .modal-main .search-section input {
-  color: #AE1C9A;
+  color: #081229;
 }
 .header-center .header-cart-items .header-search .modal-main .search-section .shop-btn {
   border-top-left-radius: 0;
@@ -833,7 +833,7 @@ button {
   width: 100%;
 }
 .header-nav .category-menu-section .category-dropdown .category-list-item:hover {
-  background-color: #AE1C9A;
+  background-color: #081229;
 }
 .header-nav .category-menu-section .category-dropdown .category-list-item:hover .dropdown-text {
   color: #FFFFFF;
@@ -930,7 +930,7 @@ button {
 }
 .header-nav .header-nav-menu .menu-list .header-sub-menu a:hover,
 .header-nav .header-nav-menu .menu-list .shop-menu a:hover {
-  color: #AE1C9A;
+  color: #081229;
 }
 .header-nav .header-nav-menu .menu-list .mega-menu {
   position: unset;
@@ -1450,7 +1450,7 @@ button {
 }
 
 .flash-sale {
-  background: linear-gradient(1200deg, #CADBC8 10%, #4D4D4D 55%, #B0BBBF 100%);
+  background: linear-gradient(to right, #E8D3D6, #F8E8D5);
 }
 
 .countdown-section {
@@ -4204,7 +4204,7 @@ table .ticket-row:hover {
   font-size: 4rem;
 }
 .user-dashboard .nav-content .profile-section .product-wrapper:hover {
-  background: #AE1C9A;
+  background: #081229;
 }
 .user-dashboard .nav-content .profile-section .product-wrapper:hover .paragraph,
 .user-dashboard .nav-content .profile-section .product-wrapper:hover .heading {
@@ -4319,7 +4319,7 @@ table .ticket-row:hover {
 }
 .user-dashboard .nav-content .payment-section .shop-btn {
   margin: 0;
-  border: 1px solid #AE1C9A;
+  border: 1px solid #081229;
 }
 .user-dashboard .nav-content .payment-section .shop-btn::after {
   display: none;
