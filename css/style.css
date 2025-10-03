@@ -140,7 +140,7 @@ button {
   text-align: center;
   border-radius: 3rem;
   display: inline-block;
-  background: #AE1C9A;
+  background: #081229;
   font-size: 1.4rem;
   font-weight: 500;
   position: relative;
@@ -174,7 +174,7 @@ button {
 }
 .shop-btn:hover {
   color: #FFFFFF;
-  background-color: #AE1C9A;
+  background-color:#D4B055;
 }
 .shop-btn:hover::after {
   right: auto;
@@ -2406,7 +2406,7 @@ hr {
   font-size: 1.8rem;
   font-weight: 500;
   position: relative;
-  color: #AE1C9A;
+  color: #081229;
   font-family: "Inter", sans-serif;
   transition: all 0.3s;
   overflow: hidden;
@@ -2452,7 +2452,7 @@ hr {
   color: #FFFFFF;
 }
 .blogs-wrapper .shop-btn:hover {
-  color: #AE1C9A;
+  color: #081229;
 }
 .blogs-wrapper .shop-btn::after {
   display: none;
@@ -2493,9 +2493,9 @@ hr {
   width: 3.5rem;
   height: 3.5rem;
   border-radius: 50%;
-  background: #AE1C9A;
+  background: #081229;
   transition: all 0.2s;
-  border: 1px solid #AE1C9A;
+  border: 1px solid #081229;
 }
 .blog-details .blogs-form-section .social-item a svg {
   fill: currentColor;
@@ -2506,7 +2506,7 @@ hr {
   background: #FFFFFF;
 }
 .blog-details .blogs-form-section .social-item a:hover svg {
-  fill: #AE1C9A;
+  fill: #081229;
 }
 @media (max-width:767px) {
   .blog-details .blogs-wrapper .wrapper-info {
@@ -2655,7 +2655,7 @@ hr {
 }
 .blog-post-section .blog-post .blogs-wrapper .wrapper-info svg {
   fill: currentColor;
-  fill: #AE1C9A;
+  fill: #081229;
 }
 .blog-post-section .blog-post .category-list {
   display: flex;
@@ -2670,7 +2670,7 @@ hr {
   color: #797979;
 }
 .blog-post-section .blog-post .category-list a:hover {
-  color: #AE1C9A;
+  color: #081229;
 }
 .blog-post-section .newsletter {
   background: url("../assets/images/homepage-one/newsletter.webp") no-repeat center/cover;
@@ -2738,7 +2738,7 @@ hr {
   font-size: 1.6rem;
 }
 .cart-section .table-row .table-wrapper .heading:hover {
-  color: #AE1C9A;
+  color: #081229;
 }
 .cart-section .table-row .wrapper-product {
   width: 38rem;
@@ -2801,7 +2801,7 @@ table .ticket-row:hover {
   font-weight: 600;
 }
 .table-row .table-wrapper .heading:hover {
-  color: #AE1C9A;
+  color: #081229;
 }
 .table-row .table-wrapper .table-heading {
   font-size: 1.5rem;
@@ -2838,7 +2838,7 @@ table .ticket-row:hover {
   transition: all 0.2s;
 }
 .table-row .table-wrapper-center path:hover {
-  fill: #AE1C9A;
+  fill: #081229;
 }
 .table-row .table-wrapper-img {
   gap: 1rem;
@@ -3002,7 +3002,7 @@ table .ticket-row:hover {
   font-size: 2.5rem;
 }
 .order-summery .total .price {
-  color: #AE1C9A;
+  color: #081229;
 }
 .order-summery .payment-type {
   display: flex;
@@ -3022,7 +3022,7 @@ table .ticket-row:hover {
   padding: 2rem;
 }
 .order-summery .payment-type .checkbox-item input {
-  accent-color: #AE1C9A;
+  accent-color: #081229;
 }
 .order-summery .payment-type .checkbox-item:hover {
   background-color: rgba(174, 28, 154, 0.08);
@@ -3108,7 +3108,7 @@ table .ticket-row:hover {
   gap: 0px;
 }
 .checkbox .forget-pass p {
-  color: #AE1C9A;
+  color: #081229;
 }
 
 .checkbox-item {
@@ -3220,7 +3220,7 @@ table .ticket-row:hover {
   line-height: 2.2rem;
 }
 .faq-accordion .faq-item .accordion-collapse {
-  background-color: #AE1C9A;
+  background-color: #081229;
 }
 .faq-accordion .faq-item .accordion-collapse .paragraph {
   color: #FFFFFF;
@@ -3386,7 +3386,7 @@ table .ticket-row:hover {
   --bs-gutter-y: 5rem;
 }
 .img-upload-section .logo-wrapper label {
-  background: #AE1C9A;
+  background: #081229;
   border-radius: 50%;
   cursor: pointer;
 }
@@ -3418,7 +3418,7 @@ table .ticket-row:hover {
   height: 17rem;
   border-radius: 50%;
   object-fit: cover;
-  border: 1px solid #AE1C9A;
+  border: 1px solid #081229;
 }
 .img-upload-section .logo-wrapper .logo-upload .upload-input {
   top: 95%;
@@ -3430,7 +3430,7 @@ table .ticket-row:hover {
   width: 100%;
   height: 15rem;
   border-radius: 0.5rem;
-  border: 1px solid #AE1C9A;
+  border: 1px solid #081229;
 }
 .img-upload-section .logo-wrapper .cover-upload .cover-input {
   top: 15rem;
@@ -3578,7 +3578,7 @@ table .ticket-row:hover {
 .product-compair .cart-center .search input {
   border: none;
   outline: none;
-  color: #AE1C9A;
+  color: #081229;
   flex: 1 1 0%;
 }
 .product-compair .cart-center .search span svg {
@@ -3586,7 +3586,7 @@ table .ticket-row:hover {
   height: 2rem;
   object-fit: cover;
   fill: currentColor;
-  fill: #AE1C9A;
+  fill: #081229;
 }
 .product-compair .cart-center .wrapper .wrapper-img {
   width: 16rem;
@@ -3750,7 +3750,7 @@ table .ticket-row:hover {
   overflow: hidden;
 }
 .about-details:hover {
-  color: #AE1C9A;
+  color: #081229;
 }
 @media (max-width:767px) {
   .about-details {
@@ -3774,7 +3774,7 @@ table .ticket-row:hover {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: #AE1C9A;
+  background: #081229;
   z-index: 10;
   opacity: 0.6;
 }
@@ -3898,7 +3898,7 @@ table .ticket-row:hover {
   font-size: 2.2rem;
 }
 .testimonial-wrapper .testimonial-info .title-inner {
-  color: #AE1C9A;
+  color: #081229;
 }
 @media (max-width:1023px) {
   .testimonial-wrapper .testimonial-inner-text {
@@ -3981,7 +3981,7 @@ table .ticket-row:hover {
   transition: all 0.5s ease-in;
 }
 .user-profile-section .dashboard-heading .dashboard-switch .switch-icon.active {
-  background: #AE1C9A;
+  background: #081229;
 }
 .user-profile-section .dashboard-heading .dashboard-switch .switch-icon.active::before {
   left: calc(100% - 23px - 4px);
@@ -4155,12 +4155,12 @@ table .ticket-row:hover {
   background-color: transparent;
 }
 .user-dashboard .nav-item .nav-link.active svg {
-  fill: #AE1C9A;
+  fill: #081229;
   transform: scale(1.1);
 }
 .user-dashboard .nav-item .nav-link.active .text {
   transform: translateX(5px);
-  color: #AE1C9A;
+  color: #081229;
   font-weight: 600;
 }
 .user-dashboard .nav-content {
@@ -4191,7 +4191,7 @@ table .ticket-row:hover {
 .user-dashboard .nav-content .profile-section .product-wrapper svg,
 .user-dashboard .nav-content .profile-section .product-wrapper path {
   fill: currentColor;
-  fill: #AE1C9A;
+  fill: #081229;
 }
 .user-dashboard .nav-content .profile-section .product-wrapper rect {
   fill: #FFFFFF;
