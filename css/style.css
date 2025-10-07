@@ -548,7 +548,7 @@ button {
 .header-center .header-cart-items .header-cart .cart-submenu .cart-wrapper-item .wrapper .wrapper-item .wrapper-img {
   width: 6.5rem;
   height: auto;
-  background: rgba(174, 28, 154, 0.08);
+  background: #081229;
   border-radius: 0.5rem;
 }
 .header-center .header-cart-items .header-cart .cart-submenu .cart-wrapper-item .wrapper .wrapper-item .wrapper-img img {
@@ -558,7 +558,7 @@ button {
 .header-center .header-cart-items .header-cart .cart-submenu .cart-wrapper-item::-webkit-scrollbar {
   width: 2px;
   height: 15rem;
-  background: rgba(174, 28, 154, 0.08);
+  background: #081229;
 }
 .header-center .header-cart-items .header-cart .cart-submenu .cart-wrapper-item::-webkit-scrollbar-track {
   background: #e8e8e8;
@@ -573,7 +573,7 @@ button {
 .header-center .header-cart-items .header-cart .cart-submenu .cart-wrapper-section .wrapper-line {
   width: 100%;
   height: 1px;
-  background: rgba(174, 28, 154, 0.08);
+  background: #081229;
   border-radius: 1rem;
   margin-bottom: 1rem;
 }
@@ -601,7 +601,7 @@ button {
   display: none;
 }
 .header-center .header-cart-items .header-cart .cart-submenu .cart-wrapper-section .cart-btn .checkout-btn {
-  background: #AE1C9A;
+  background: #081229;
   color: #FFFFFF;
 }
 .header-center .header-cart-items .header-cart:hover .cart-submenu {
@@ -626,7 +626,7 @@ button {
   width: 62rem;
   height: 6rem;
   border-radius: 3rem;
-  border: 1px solid #AE1C9A;
+  border: 1px solid #081229;
   overflow: hidden;
 }
 .header-center .header-cart-items .header-search .modal-main .search-section {
@@ -759,7 +759,7 @@ button {
 .offcanvas-body .category-dropdown .category-list .dropdown-item .drop-down-list-icon span svg,
 .offcanvas-body .category-dropdown .category-list .dropdown-item .drop-down-list-icon span rect {
   fill: currentColor;
-  fill: #AE1C9A;
+  fill: #081229;
 }
 
 .header-bottom {
@@ -1926,7 +1926,7 @@ button {
   margin: 1rem 0;
 }
 .product-info-content .product-availability .inner-text {
-  color: #AE1C9A;
+  color: #081229;
 }
 .product-info-content .product-size {
   width: 100%;
@@ -1934,7 +1934,7 @@ button {
   position: relative;
 }
 .product-info-content .product-size .size-title {
-  color: #AE1C9A;
+  color: #081229A;
   margin-bottom: 1rem;
 }
 .product-info-content .product-size .size-section {
@@ -1979,7 +1979,7 @@ button {
   transition: all 0.5s;
 }
 .product-info-content .product-size .size-option .option:hover {
-  background: #AE1C9A;
+  background: #081229;
   color: #FFFFFF;
 }
 .product-info-content .product-size .size-option .option:hover .option-measure {
@@ -1998,7 +1998,7 @@ button {
   background-color: #FFFFFF;
 }
 .product-info-content .product-size.active .size-option .option:hover {
-  background-color: #AE1C9A;
+  background-color: #081229;
 }
 .product-info-content .product-size.active .chevron {
   transform: rotate(-180deg);
@@ -2048,7 +2048,7 @@ button {
   margin-bottom: 1rem;
 }
 .product-info-content .product-details .inner-text {
-  color: #AE1C9A;
+  color: #081229;
 }
 .product-info-content .product-report {
   margin-bottom: 1.5rem;
@@ -2113,14 +2113,14 @@ hr {
   padding: 1rem 2.4rem;
   border-top-left-radius: 2rem;
   border-top-right-radius: 2rem;
-  color: #AE1C9A;
+  color: #081229;
   font-weight: 600;
 }
 .product-description .nav-item .nav-link:hover {
   border-color: rgba(174, 28, 154, 0.08);
 }
 .product-description .nav-item .nav-link.active {
-  background: #AE1C9A;
+  background: #081229;
   color: #FFFFFF;
 }
 .product-description .tab-item {
@@ -2241,7 +2241,7 @@ hr {
   }
 }
 .sidebar-section .sidebar-range .noUi-connect {
-  background: #AE1C9A;
+  background: #081229;
 }
 .sidebar-section .sidebar-range .example-val {
   font-size: 1.5rem;
@@ -2272,7 +2272,7 @@ hr {
 }
 .deal-btn::after {
   padding: 0;
-  background: #AE1C9A;
+  background: #081229;
   width: 0;
   height: 2px;
   top: 2rem;
@@ -3199,7 +3199,7 @@ table .ticket-row:hover {
   display: none;
 }
 .faq-accordion .faq-item .faq-button:not(.collapsed) {
-  background: #AE1C9A;
+  background: #081229;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3764705882);
 }
 .faq-accordion .faq-item .faq-button:not(.collapsed) .plus {
@@ -3492,7 +3492,7 @@ table .ticket-row:hover {
   justify-content: center;
   gap: 2rem;
   width: 100%;
-  border: 1px solid #AE1C9A;
+  border: 1px solid #081229;
   height: 19.6rem;
   border-radius: 0.5rem;
 }
